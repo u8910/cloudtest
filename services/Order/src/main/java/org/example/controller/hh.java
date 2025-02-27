@@ -9,6 +9,6 @@ public class hh {
 
     @GetMapping("/hh")
     public String hh() {
-        return "hhhhhhhh哈哈哈123";
+        return "hhhhhhhh哈哈";
     }
 }
